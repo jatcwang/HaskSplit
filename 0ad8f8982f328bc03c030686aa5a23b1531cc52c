@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a6ced46_acac0737",
+        "filename": "test",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1007852
+      },
+      "writtenOn": "2016-03-22T07:38:12Z",
+      "side": 1,
+      "message": "This needs to be changed... hmm",
+      "revId": "0ad8f8982f328bc03c030686aa5a23b1531cc52c",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
